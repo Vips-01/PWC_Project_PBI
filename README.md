@@ -1,6 +1,6 @@
 # PWC_Project_PBI
 
-**PwC Switzerland Power BI Job Simulation on Forage - July 2024**
+## PwC Switzerland Power BI Job Simulation on Forage - July 2024
 
 
  * Completed a job simulation where I strengthened my PowerBI skills to better
